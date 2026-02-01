@@ -7,5 +7,6 @@ if (!require("IRdisplay")) install.packages("IRdisplay", dependencies = T); libr
 if (!require("png")) install.packages("png", dependencies = T); library("png")
 if (!require("grid")) install.packages("grid", dependencies = T); library("grid") 
 if (!require("knitr")) install.packages("knitr", dependencies = T); library("knitr") 
+if (!require("jpeg")) install.packages("jpeg"); library("jpeg")
 source("./R/utils.R")
 
