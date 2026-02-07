@@ -1,9 +1,9 @@
-Activity,Day,Start,End,Duration,Location,Room,Dates,Unit Coordinator */ Teaching Staff / Sessional Academic
-LEC01,Wed,12:00,14:00,2 hrs,Gardens Point,GP-S-403,"25/2-1/4, 15/4-27/5",Chris Drovandi*
-LEC01,Wed,12:00,14:00,2 hrs,Online,-,"25/2-1/4, 15/4-27/5",Chris Drovandi*
-PRC01,Wed,18:00,20:00,2 hrs,Gardens Point,GP-S-519,"25/2-1/4, 15/4-27/5",Nicholas Gecks-Preston
-PRC01,Thu,8:00,10:00,2 hrs,Gardens Point,GP-D-416,"26/2-2/4, 16/4-28/5",Arwen Nugteren
-PRC01,Thu,10:00,12:00,2 hrs,Gardens Point,GP-G-216,"26/2-2/4, 16/4-28/5",Matt Begun
-PRC01,Thu,10:00,12:00,2 hrs,Gardens Point,GP-D-416,"26/2-2/4, 16/4-28/5",Arwen Nugteren
-PRC01,Thu,16:00,18:00,2 hrs,Online,-,"26/2-2/4, 16/4-28/5",Minh Long Nguyen
-PRC01,Fri,8:00,10:00,2 hrs,Gardens Point,GP-G-216,"27/2-3/4, 17/4-29/5",Arwen Nugteren
+Activity,Day,Start,End,Duration,Location,Room,Dates,Teaching_Staff
+LEC01,Wed,12,14,2 hrs,Gardens Point,GP-S-403,"25/2-1/4, 15/4-27/5",Chris Drovandi
+LEC01,Wed,12,14,2 hrs,Online,-,"25/2-1/4, 15/4-27/5",Chris Drovandi
+PRC01,Wed,18,20,2 hrs,Gardens Point,GP-S-519,"25/2-1/4, 15/4-27/5",Nicholas Gecks-Preston
+PRC01,Thu,8,10,2 hrs,Gardens Point,GP-D-416,"26/2-2/4, 16/4-28/5",Arwen Nugteren
+PRC01,Thu,10,12,2 hrs,Gardens Point,GP-G-216,"26/2-2/4, 16/4-28/5",Matt Begun
+PRC01,Thu,10,12,2 hrs,Gardens Point,GP-D-416,"26/2-2/4, 16/4-28/5",Arwen Nugteren
+PRC01,Thu,16,18,2 hrs,Online,-,"26/2-2/4, 16/4-28/5",Minh Long Nguyen
+PRC01,Fri,8,10,2 hrs,Gardens Point,GP-G-216,"27/2-3/4, 17/4-29/5",Arwen Nugteren
